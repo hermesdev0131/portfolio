@@ -1,5 +1,5 @@
 {
-  "name": "space-portfolio",
+  "name": "hermes-portfolio",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Hermes",
+    "email": "hermes0131@gmail.com",
+    "url": "https://github.com/hermes131"
   },
   "description": "Welcome to my full stack Next.js 14 space portfolio.",
   "keywords": [
@@ -19,7 +19,7 @@
     "nextjs",
     "vercel",
     "react",
-    "space-portfolio",
+    "hermes-portfolio",
     "portfolio",
     "react-icons",
     "cn",
@@ -48,21 +48,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/hermes131/portfolioit"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/hermes131/portfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/hermes131/portfolio/issues",
+    "email": "hermes0131@gmail.com"
   },
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": "https://www.patreon.com/hermes"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/hermes"
     }
   ],
   "dependencies": {
