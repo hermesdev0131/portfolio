@@ -218,6 +218,18 @@ export const BACKEND_SKILL = [
     width: 80,
     height: 80,
   },
+  {
+    skill_name: "Python",
+    image: "python.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Django",
+    image: "django.png",
+    width: 80,
+    height: 80,
+  },
 ] as const;
 
 export const FULLSTACK_SKILL = [
@@ -241,6 +253,13 @@ export const FULLSTACK_SKILL = [
   },
 
   {
+    skill_name: "Wordpress",
+    image: "wordpress.png",
+    width: 70,
+    height: 70,
+  },
+
+  {
     skill_name: "Figma",
     image: "figma.png",
     width: 50,
@@ -259,25 +278,25 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "MSmart Tax Filing Platform",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
-    link: "https://example.com",
+      'Experience the future of fintech with a user-first solution that makes even the most complex tax tasks feel simple amd stress-free. With smart guidance and a clean, responsive design, it offers a smooth, intuitive experience from start to finish.',
+    image: "/projects/project1.png",
+    link: "https://taxfix.de",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "AI-Powered Health Platform",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
+      "Step into the future of digital healthcare with the AI-Powered Health Platform-a cutting-edge solution that's transforming the way patients access medical care. Built with Python, Django, and advanced AI, this platform goes beyond the ordinary to deliver smarter, more personalized healthcare experiences.", 
+    image: "/projects/project2.png",
+    link: "https://healthtap.com",
   },
   {
-    title: "Space Themed Website",
+    title: "Automation-Driven SaaS Experience",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
+      'Unlock the future of lead generation with an automation-driven solution designed to simplify and scale LinkedIn outreach. From onboarding to performance tracking, every step is streamlined to help businesses connect and convert more efficiently.',
+    image: "/projects/project3.png",
+    link: "https://dripify.io",
   },
 ] as const;
 
@@ -333,12 +352,12 @@ export const FOOTER_DATA = [
       {
         name: "Learning about me",
         icon: null,
-        link: "https://example.com",
+        link: "",
       },
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "",
       },
     ],
   },
