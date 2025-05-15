@@ -4,13 +4,13 @@
 
 ![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/hermes131 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/hermes131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermes131/portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/hermes131/portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/hermes131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermes131/portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/hermes131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermes131/portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/hermes131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermes131/portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/hermes131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermes131/portfolio/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://hermes131-portfolio.netlify.app "Netlify Status")
 
 <!-- Table of Contents -->
@@ -155,8 +155,8 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/hermes131?style=social&label=Follow&maxAge=2592000)](https://github.com/hermes131 "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fhermes131%2Fportfolio "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/hermesdev0131?style=social&label=Follow&maxAge=2592000)](https://github.com/hermesdev0131 "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fhermesdev0131%2Fportfolio "Tweet")
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER. "Subscribe my YouTube Channel")
 
 ## :books: Learn More
@@ -180,11 +180,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#hermes131/portfolio&Timeline">
+<a href="https://star-history.com/#hermesdev0131/portfolio&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hermes131/portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hermes131/portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hermes131/portfolio&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hermesdev0131/portfolio&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hermesdev0131/portfolio&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hermesdev0131/portfolio&type=Timeline" />
 </picture>
 </a>
 

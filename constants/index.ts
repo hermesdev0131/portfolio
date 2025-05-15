@@ -357,7 +357,7 @@ export const FOOTER_DATA = [
       {
         name: "Contact Me",
         icon: null,
-        link: "",
+        link: "hermesdev0131@gmail.com",
       },
     ],
   },
@@ -379,5 +379,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/hermes131/portfolio",
+  sourceCode: "https://github.com/hermesdev0131/portfolio",
 };
