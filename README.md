@@ -11,7 +11,7 @@
 [![Github commits](https://flat.badgen.net/github/commits/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/issues "GitHub issues")
 [![GitHub pull requests](https://flat.badgen.net/github/prs/hermesdev0131/portfolio?icon=github&color=black&scale=1.01)](https://github.com/hermesdev0131/portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://hermes131-portfolio.netlify.app "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://hermesdev0131-portfolio.netlify.app "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
